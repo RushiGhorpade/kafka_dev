@@ -1,0 +1,1 @@
+https://github.com/LearnCodeWithDurgesh/Apache-Kafka--Yt-Cc/blob/main/deliverybody/deliverybody/src/main/resources/application.properties
