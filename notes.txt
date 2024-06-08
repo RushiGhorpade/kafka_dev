@@ -1,1 +1,9 @@
-https://github.com/LearnCodeWithDurgesh/Apache-Kafka--Yt-Cc/blob/main/deliverybody/deliverybody/src/main/resources/application.properties
+
+git commit -m "Commit message"
+
+git push
+
+git pull
+
+git status
+
